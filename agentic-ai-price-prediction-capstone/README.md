@@ -21,16 +21,16 @@ Everything is coordinated by `DealAgentFramework`, which persists deal history t
 
 ## Application Preview
 
-### Weights & Biases Dashboard
+### Live Dashboard
 
 <p align="center">
-  <img src="asset/price_output_1_wandb.png" alt="Weights and Biases Dashboard" width="900">
+  <img src="asset/agentic_output_1_dashboard.png" alt="Agentic AI Dashboard" width="900">
 </p>
 
-### Price Prediction Results
+### Opportunity Notification
 
 <p align="center">
-  <img src="asset/price_output_2_scatter.png" alt="Price Prediction Scatter Plot" width="900">
+  <img src="asset/agentic_output_2_notification.png" alt="Opportunity Notification" width="900">
 </p>
 
 ## Files
