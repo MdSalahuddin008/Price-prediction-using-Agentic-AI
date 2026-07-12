@@ -19,6 +19,20 @@ The system is built from a team of cooperating agents, coordinated by a **Planni
 
 Everything is coordinated by `DealAgentFramework`, which persists deal history to `memory.json` and stores product embeddings in a local Chroma vector database for the RAG-based Frontier Agent.
 
+## Application Preview
+
+### Weights & Biases Dashboard
+
+<p align="center">
+  <img src="asset/price_output_1_wandb.png" alt="Weights and Biases Dashboard" width="900">
+</p>
+
+### Price Prediction Results
+
+<p align="center">
+  <img src="asset/price_output_2_scatter.png" alt="Price Prediction Scatter Plot" width="900">
+</p>
+
 ## Files
 
 | File / Folder | Description |
